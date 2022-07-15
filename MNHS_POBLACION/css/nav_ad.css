@@ -1,0 +1,10 @@
+.navbar img {
+    width: 50px;
+    margin-left: 20px;
+}
+
+.navbar p {
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 10px;
+}

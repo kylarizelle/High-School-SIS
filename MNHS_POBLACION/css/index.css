@@ -1,0 +1,12 @@
+.student {
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin-top: 10px;
+    border-style: none;
+}
+
+.student:hover {
+    background-color: gray;
+}
